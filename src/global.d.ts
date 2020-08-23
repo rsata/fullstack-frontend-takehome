@@ -1,0 +1,6 @@
+declare module 'ecs-logs-js'
+declare module 'winston-console-formatter'
+declare module '@zeit/next-source-maps'
+declare module '@zeit/next-bundle-analyzer'
+declare module 'evergreen-ui'
+declare module 'nanoid'
